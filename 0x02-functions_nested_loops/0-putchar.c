@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- * main this is a function
+ * main - this is a function
  * return: 0
  */
 int main(void)
