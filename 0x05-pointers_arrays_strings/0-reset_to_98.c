@@ -3,7 +3,8 @@
 /**
  * reset_to_98 - updates the value of the variable
  * the pointer points to 98
- * @n: pointer to the variable to update
+ * @n: input
+ *Return: n
  */
 void reset_to_98(int *n)
 {
